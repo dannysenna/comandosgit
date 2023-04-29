@@ -1,2 +1,1 @@
-Iniciamos o nosso primeiro projeto.
-Primeira alteração criada.
+iniciamos o nosso primeiro projeto.
