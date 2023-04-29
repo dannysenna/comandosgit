@@ -1,2 +1,13 @@
 Segundo arquivo criado.
 Terceira alteração feita na nuvem.
+
+
+-- git pull-> pegar as informações da nuvem
+
+-- git add . -> salvar o arqueivo
+-- git commit -m 
+
+-- git push -> terminar arquivo importante, subir isso pra nuvem
+
+
+
